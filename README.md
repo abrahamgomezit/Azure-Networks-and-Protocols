@@ -185,4 +185,3 @@ Below are the steps for ICMP (nternet Control Message Protocol) traffic observat
 </p>
 <br />
 
-<h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
